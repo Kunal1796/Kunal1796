@@ -5,8 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Kunal-yellow)](https://stackoverflow.com/users/14788258/kunal-dongare)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes) 
+Full Stack Developer
+With a passion for problem-solving and a drive to help companies reach their goals, I am an ambitious full stack developer ready to take on any challenge and make an impact. My skills include creating innovative solutions using the latest technologies, developing user-friendly applications, and providing support throughout the entire software development life cycle. I am also eager to learn new technologies and techniques to stay ahead of the curve.
+I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql) 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Kunal1706/count.svg)
