@@ -60,12 +60,6 @@ Currently working as a **Software Engineer** in Pune 🇮🇳
 
 ---
 
-### 📈 GitHub Stats
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kunal1706&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal1706&layout=compact&theme=tokyonight)
-
----
-
 ### 🌍 Find me here
 - 💼 LinkedIn: https://www.linkedin.com/in/kunal-dongare-636a85218
 - 🌐 Portfolio: https://kunal1796.github.io/KunalProfille/
